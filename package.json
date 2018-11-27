@@ -1,0 +1,15 @@
+{
+  "name": "twitter-bot-blocksroads",
+  "version": "1.0.0",
+  "description": "twitter bot pour communauté blocksroads",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anis",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "twit": "^2.2.11"
+  }
+}
