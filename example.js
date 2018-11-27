@@ -10,10 +10,10 @@ var Twit = require('twit')
 var colors= require("colors");
 var debug=false;
 var T = new Twit({
-    consumer_key:         'WPPSG3l2VWpm91cUO05E56oPM'
-  , consumer_secret:      '3gYkqaYPuT8xviWH04RyInPiVjsk3Mt2HfXcvHxoGsBseuRyc2'
-  , access_token:         '2256676554-VkcrmRpzsQg3W47y2Jh9PRsWO1uOKaBP3b2YLhV'
-  , access_token_secret:  'g6YKBlNRQ9O01g5gtwmYMCU0qtyKERgyQhkyQt80jDkCk'
+    consumer_key:         ''
+  , consumer_secret:      ''
+  , access_token:         ''
+  , access_token_secret:  ''
 })
 
 //
